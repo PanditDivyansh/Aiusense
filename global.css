@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font-gentium: "GentiumPlusRegular", serif;
+  }
+  
+  html {
+    font-family: var(--font-gentium);
+  }
